@@ -1,2 +1,2 @@
 # BuptFoto.github.io
-BUPT Foto Club Website
+BUPT Photography Club Website

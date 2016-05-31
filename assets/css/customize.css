@@ -1,0 +1,20 @@
+/* customize.css */
+
+body {
+    padding-top: 50px;
+}
+.bupt-foto-main {
+    padding: 40px 15px;
+    text-align: center;
+}
+.bupt-foto-footer {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #777;
+    text-align: center;
+    border-top: 1px solid #e5e5e5;
+}
+.bupt-foto-avatar img {
+    width: 400px;
+}
