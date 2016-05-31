@@ -5,10 +5,11 @@ body {
 }
 .bupt-foto-main {
     padding: 100px 15px;
+    padding-top: 150px;
     text-align: center;
 }
 .bupt-foto-avatar {
-    margin-bottom: 75px;
+    margin-bottom: 100px;
 }
 .bupt-foto-avatar img {
     width: 360px;
