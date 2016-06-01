@@ -10,7 +10,7 @@ $.getJSON('../json/footer-data.json', function(data) {
             $('#powered-by').append(' &middot; ').append($('<a>').attr('href', data.powered_by[i].link).attr('target', '_blank').html(data.powered_by[i].name)).append(' ' + data.powered_by[i].version);
         };
     };
-    $('#footer-info').append($('<p>').html(function(){var date = new Date(); return '&copy; ' +  date.getFullYear() + ' ';})
+    $('#footer-info').append($('<p>').html(function(){var date = new Date(); return '&copy; ' + data.organization.establish + '-' +  date.getFullYear() + ' ';})
         .append($('<a>').attr('href', data.organization.link).attr('target', '_blank').html(data.organization.name))
         .append(data.organization.suffix)
     );
