@@ -16,10 +16,37 @@ body {
 .bupt-foto-fullname {
     margin-bottom: 10px
 }
-.bupt-foto-footer {
+.bupt-foto-featurette {
+    padding: 100px 15px;
+    border-top: 1px solid #e5e5e5;
+    text-align: center;
+}
+.bupt-foto-featurette-title {
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}.bupt-foto-footer {
     text-align: center;
     padding: 50px 0;
     color: #777;
     text-align: center;
     border-top: 1px solid #e5e5e5;
+}
+
+/* Color */
+.color-black {
+    color: #000;
+}
+.color-dark-gray {
+    color: #333;
+}
+.color-blue {
+    color: #4078c0;
+}
+
+/* Dropdown menu */
+.dropdown-menu {
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
 }
