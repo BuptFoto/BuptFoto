@@ -50,3 +50,8 @@ body {
     -webkit-box-shadow: none;
     box-shadow: none;
 }
+
+hr .half-rule {
+    width: 100px;
+    margin: 40px auto;
+}
