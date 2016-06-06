@@ -51,6 +51,7 @@ body {
     box-shadow: none;
 }
 
+/* Half rule */
 .half-rule {
     width: 100px;
     margin: 40px auto;
