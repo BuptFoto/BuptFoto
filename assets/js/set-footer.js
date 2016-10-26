@@ -1,6 +1,6 @@
 // set-footer.js
 
-$.getJSON('../json/footer-data.json', function(data) {
+$.getJSON('http://buptfoto.com/json/footer-data.json', function(data) {
     $('#footer-info').append($('<p>').attr('id', 'powered-by').html('Powered by '));
     for (var i in data.powered_by) {
         if (i < 1) {
