@@ -14,12 +14,7 @@
         {
             "link": "http://jquery.com/",
             "name": "jQuery",
-            "version": "v1.11.3"
-        },
-        {
-            "link": "http://necolas.github.io/normalize.css/",
-            "name": "normalize.css",
-            "version": "v4.0.0"
+            "version": "v3.1.1"
         },
         {
             "link": "http://fortawesome.github.io/Font-Awesome/",
