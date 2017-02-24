@@ -1,0 +1,37 @@
+version:
+  jquery: 3.1.1
+  jquery_migrate: 3.0.0
+  bootstrap: 3.3.7
+  font_awesome: 4.7.0
+
+google_analytics_id: UA-84822840-1
+
+repository: https://github.com/BuptFoto/BuptFoto
+
+timezone: Asia/Shanghai
+
+name: BUPT Fotoclub
+author: iROCKBUNNY
+author_url: http://irockbunny.com
+organization: BUPT Fotoclub
+organization_url: http://buptfoto.com/
+description: Official Website
+url: http://buptfoto.com/
+github: https://github.com/BuptFoto
+
+logo: /img/Avatar.png
+
+gems:
+- jekyll-seo-tag
+- jekyll-sitemap
+
+exclude:
+- .gitignore
+- .travis.yml
+- LICENSE
+- README.md
+- CNAME
+- Gemfile
+- Gemfile.lock
+- script
+- vendor

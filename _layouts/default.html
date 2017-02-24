@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="Jekyll v{{ jekyll.version }}">
+    {% seo %}
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/{{ site.version.bootstrap }}/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/{{ site.version.font_awesome }}/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{ '/assets/css/customize.css' | relative_url }}">
+    <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
+    <link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
+    {% include analytics.html %}
+  </head>
+  <body>
+    {% include header.html %}
+    {{ content }}
+    {% include footer.html %}
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/{{ site.version.jquery }}/jquery.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/{{ site.version.bootstrap }}/js/bootstrap.min.js"></script>
+  </body>
+</html>
