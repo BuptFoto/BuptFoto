@@ -1,11 +1,8 @@
 - name: Bootstrap
-  version: 3.3.7
   url: http://getbootstrap.com/
 
 - name: jQuery
-  version: 3.2.1
   url: http://jquery.com/
 
 - name: Font Awesome
-  version: 4.7.0
   url: http://fontawesome.io/
