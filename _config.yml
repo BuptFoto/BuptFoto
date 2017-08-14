@@ -15,7 +15,7 @@ github: https://github.com/BuptFoto
 
 logo: /img/Avatar.png
 
-gems:
+plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 
