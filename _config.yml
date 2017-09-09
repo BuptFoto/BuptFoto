@@ -4,15 +4,18 @@ repository: https://github.com/BuptFoto/BuptFoto
 
 timezone: Asia/Shanghai
 
-name: BUPT Fotoclub
+title: BUPT Fotoclub
+description: Official Website
+url: http://buptfoto.com/
+
 author: iROCKBUNNY
 author_url: http://irockbunny.com
 organization: BUPT Fotoclub
 organization_url: http://buptfoto.com/
-description: Official Website
-url: http://buptfoto.com/
+
 github: https://github.com/BuptFoto
 
+image: /img/Avatar.png
 logo: /img/Avatar.png
 
 plugins:
