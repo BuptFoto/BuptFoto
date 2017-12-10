@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/BuptFoto/BuptFoto.svg)](https://travis-ci.org/BuptFoto/BuptFoto)
 [![Website](https://img.shields.io/website-up-down-green-red/http/buptfoto.com.svg)](http://buptfoto.com/)
-[![License](https://img.shields.io/badge/license-CC4.0%20BY--NC--ND-orange.svg)](/LICENSE)
+[![License](https://img.shields.io/badge/license-CC4.0%20BY--NC--ND-orange.svg)](/blob/master/LICENSE)
 
 # BuptFoto
 BUPT Photography Club Website
