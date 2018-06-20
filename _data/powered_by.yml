@@ -1,8 +1,8 @@
 - name: Bootstrap
-  url: http://getbootstrap.com/
+  url: https://getbootstrap.com/
 
 - name: jQuery
-  url: http://jquery.com/
+  url: https://jquery.com/
 
 - name: Font Awesome
-  url: http://fontawesome.io/
+  url: https://fontawesome.io/
